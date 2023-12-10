@@ -1,0 +1,13 @@
+button {
+    display: block;
+    margin: 20px auto;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+
+.podzielne{
+    font-size: 20px;
+    font-weight: bold;
+}
