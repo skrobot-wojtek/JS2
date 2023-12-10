@@ -1,6 +1,7 @@
-let number = 1;
+let number = 1;   
+let ul1 = document.querySelector("ul");
 const addElement = function () {
-    let ul1 = document.querySelector("ul")
+
     const li = document.createElement("li");
     li.textContent = number;
     if (number % 3 === 0) {
